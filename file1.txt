@@ -1,4 +1,8 @@
 this is first comment in file1 text file,  trying changes ..hahahah. 
 thanks!!!
-e
+
+
+
+
+Last line added!!
 
