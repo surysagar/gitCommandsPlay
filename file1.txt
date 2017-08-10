@@ -1,8 +1,6 @@
 this is first comment in file1 text file,  trying changes ..hahahah. 
-thanks!!!
+thanks!!
 
-
-
+:: Changes to detect…. 30 points..
 
 Last line added!!
-
